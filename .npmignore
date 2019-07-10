@@ -1,7 +1,7 @@
+src
 .DS_Store
 *.DS_Store
 
-/build/
 
 test.json
 
@@ -27,6 +27,7 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
+/lib/
 *.lcov
 
 # nyc test coverage
