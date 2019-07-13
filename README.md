@@ -1,11 +1,11 @@
 # hx-node-template - 
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE) ![npm](https://img.shields.io/npm/v/hx-node-template.svg) [![Build Status](https://travis-ci.com/holvonix-open/hx-node-template.svg?branch=master)](https://travis-ci.com/holvonix-open/hx-node-template) [![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/hx-node-template.svg)](https://github.com/holvonix-open/hx-node-template/commits) [![codecov](https://codecov.io/gh/holvonix-open/hx-node-template/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/hx-node-template) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/hx-node-template)](https://dependabot.com) [![DeepScan grade](https://deepscan.io/api/teams/XX/projects/YY/branches/ZZ/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=XX&pid=YY&bid=ZZ) [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE) [![npm](https://img.shields.io/npm/v/hx-node-template.svg)](https://www.npmjs.com/package/hx-node-template) [![Build Status](https://travis-ci.com/holvonix-open/hx-node-template.svg?branch=master)](https://travis-ci.com/holvonix-open/hx-node-template) [![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/hx-node-template.svg)](https://github.com/holvonix-open/hx-node-template/commits) [![codecov](https://codecov.io/gh/holvonix-open/hx-node-template/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/hx-node-template) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/hx-node-template)](https://dependabot.com) [![DeepScan grade](https://deepscan.io/api/teams/XX/projects/YY/branches/ZZ/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=XX&pid=YY&bid=ZZ) [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 
 
 ## Quick Start
 
-After `yarn add request hx-node-template':
+After `yarn add hx-node-template`:
 
 ````typescript
 import { TODO } from 'hx-node-template';
