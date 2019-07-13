@@ -1,4 +1,4 @@
-/*
+/*!
 # hx-node-template
 
 This product contains software originally developed by Holvonix LLC.
