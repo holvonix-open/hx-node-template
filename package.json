@@ -23,6 +23,7 @@
     "README.md"
   ],
   "nyc": {
+    "cache": false,
     "extension": [
       ".ts",
       ".tsx"
