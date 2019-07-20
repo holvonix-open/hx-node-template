@@ -56,11 +56,25 @@
     "prepare": "yarn clean && yarn check && yarn run compile",
     "pretest": "yarn run compile",
     "posttest": "yarn run check",
-    "preversion": "yarn test"
+    "preversion": "yarn test",
+    "semantic-release": "semantic-release"
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git",
+      "@semantic-release/github"
+    ]
   },
   "dependencies": {
   },
   "devDependencies": {
+    "semantic-release": "^15.13.18",
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/git": "^7.0.16",
     "@types/mocha": "^5.2.5",
     "@types/node": "^12.6.8",
     "codecov": "^3.4.0",
