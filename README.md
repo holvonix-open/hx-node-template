@@ -7,6 +7,7 @@
 [![codecov](https://codecov.io/gh/holvonix-open/hx-node-template/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/hx-node-template)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/hx-node-template)](https://dependabot.com)
 [![DeepScan grade](https://deepscan.io/api/teams/XX/projects/YY/branches/ZZ/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=XX&pid=YY&bid=ZZ)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/hx-node-template.svg)](https://bundlephobia.com/result?p=hx-node-template)
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
