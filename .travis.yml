@@ -16,7 +16,9 @@ script: yarn test-coverage
 stages:
   - name: test
   - name: release
-    if: env(GH_TOKEN) is present AND (NOT fork) AND branch = master AND type = push AND (NOT (commit_message =~ /skip-release/ ) )
+    if:
+      env(GH_TOKEN) is present AND (NOT fork) AND branch = master AND type =
+      push AND (NOT (commit_message =~ /skip-release/ ) )
 jobs:
   include:
     - stage: release
