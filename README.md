@@ -10,6 +10,10 @@
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+Please note: API elements marked `@experimental` may be changed in breaking ways
+(including removal) without a major version release. Don't use such APIs if
+that's not acceptable for you.
+
 ## Quick Start
 
 After `yarn add hx-node-template`:
