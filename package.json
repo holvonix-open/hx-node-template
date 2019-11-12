@@ -103,7 +103,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@holvonix-open/release-config-js": "^1.0.10",
+    "@holvonix-open/release-config-js": "^1.0.12",
     "@types/mocha": "^5.2.5",
     "@types/node": "^12.7.8",
     "chokidar-cli": "^2.0.0",
